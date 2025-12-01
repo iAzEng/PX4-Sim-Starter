@@ -1,11 +1,12 @@
 # PX4-Sim-Starter
 A complete starter guide for setting up PX4, configuring Gazebo and jMAVSim simulations, adding GZ models and worlds, integrating ROS Humble.
 ### We recommend using Ubuntu 22.04 LTS.
-If you are currently on Windows, we strongly suggest setting up a dual-boot system for the best development experience. Here is a helpful YouTube guide on how to dual-boot Windows and Ubuntu.
-https://youtu.be/mXyN1aJYefc?si=7d10vRRJcpxSqT_2
+If you are currently on Windows, we strongly suggest setting up a dual-boot system for the best development experience. Here is a helpful YouTube guide on how to dual-boot Windows and Ubuntu. 
+
 [How to Dual Boot Windows 11 & Ubuntu Easily!](https://youtu.be/mXyN1aJYefc?si=7d10vRRJcpxSqT_2)
 
 If you're using a Mac, it's perfectly fine to run Ubuntu in a virtual machine. We recommend using UTM. Here is a helpful YouTube guide on how to set up an Ubuntu 22.04 VM:
+
 [How to Install Ubuntu Linux VM on a Mac (M1 / M2 / M3 / M4 / M5) with UTM!](https://www.youtube.com/watch?v=1PL-0-5BNXs)
 
 ---
