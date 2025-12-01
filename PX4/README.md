@@ -50,9 +50,6 @@ Clone PX4 with all submodules:
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
 ```
 
-ℹ **Note:**  
-You may need to close and reopen your terminal after cloning.
-
 ---
 
 ## ⚙️ 4. Run the PX4 Installation Script
